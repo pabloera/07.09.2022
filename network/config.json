@@ -1,0 +1,53 @@
+{
+  "type": "network",
+  "version": "1.0",
+  "data": "data.json",
+  "logo": {
+    "file": "",
+    "link": "",
+    "text": "Pablo Almada"
+  },
+  "text": {
+    "more": "Uses of the Twitter´s #imbrochevel during the september 07, 2022 demonstrations. It aims to explore if the reactions of the Jair Bolsonaro´s discourse were positive or negative and, the communities related that has been used this #.",
+    "intro": "Uses of the Twitter´s #imbrochevel during the september 07, 2022 demonstrations",
+    "title": "Twitter´s # imbrochavel (07.09.2021 - 09.09.2022)"
+  },
+  "legend": {
+    "edgeLabel": "noedge",
+    "colorLabel": "modularity class",
+    "nodeLabel": "#imbrochavel"
+  },
+  "features": {
+    "search": true,
+    "groupSelectorAttribute": false,
+    "hoverBehavior": "default"
+  },
+  "informationPanel": {
+    "groupByEdgeDirection": false,
+    "imageAttribute": false
+  },
+  "sigma": {
+    "drawingProperties": {
+      "defaultEdgeType": "curve",
+      "defaultHoverLabelBGColor": "#002147",
+      "defaultLabelBGColor": "#ddd",
+      "activeFontStyle": "bold",
+      "defaultLabelColor": "#000",
+      "labelThreshold": 10,
+      "defaultLabelHoverColor": "#fff",
+      "fontStyle": "bold",
+      "hoverFontStyle": "bold",
+      "defaultLabelSize": 14
+    },
+    "graphProperties": {
+      "maxEdgeSize": 0.5,
+      "minEdgeSize": 0.2,
+      "minNodeSize": 1,
+      "maxNodeSize": 7
+    },
+    "mouseProperties": {
+      "maxRatio": 20,
+      "minRatio": 0.75
+    }
+  }
+}
